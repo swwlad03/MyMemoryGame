@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMemoryGame</string>
+    <string name="moves">Moves: 0</string>
+    <string name="pairs">Pairs: 0 / 4</string>
+    <string name="easy">Easy: (4 x 2)</string>
+    <string name="medium">Medium: (6 x 3)</string>
+    <string name="hard">Hard: (6 x 4)</string>
+</resources>
